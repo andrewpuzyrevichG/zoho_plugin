@@ -32,7 +32,7 @@ It is designed for clients using **Zoho Inventory / Zoho One** as an ERP system 
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Products Table](screen.jpg) | Displays all products fetched from Zoho with detailed data and images. |
+| ![Products Table](zoho_int/screen.jpg) | Displays all products fetched from Zoho with detailed data and images. |
 
 ## Changelog
 
